@@ -1,0 +1,167 @@
+What could be indicators of hardware issues when troubleshooting Operating System and application issues?
+
+	A.	
+Corrupted files
+
+	B.	
+Failed network connectivity
+
+	C.	
+Unaligned system clock
+
+	D.	
+All of the Above 1
+
+10 points   
+
+QUESTION 2
+
+Operating Systems need to be _____ and managed throughout their lifecycles.
+
+	A.	
+Fixed
+
+	B.	
+Patched 1
+
+	C.	
+Striped
+
+	D.	
+Pruned
+
+10 points   
+
+QUESTION 3
+
+When you sign on to a server as an Administrator or a elevated user, you are using a __________ account.
+
+	A.	
+Privileged 1
+
+	B.	
+Preferred
+
+	C.	
+Guest
+
+	D.	
+Positive
+
+10 points   
+
+QUESTION 4
+
+________ are long running applications that usually provide the main functionality of the server.
+
+	A.	
+Services 1
+
+	B.	
+Starters
+
+	C.	
+Advancement files
+
+	D.	
+Info files
+
+10 points   
+
+QUESTION 5
+
+The ______________ installs an agent on Windows workstations and servers to inventory, identify, and manage systems.
+
+	A.	
+SCCM 1
+
+	B.	
+SMMC
+
+	C.	
+SCMC
+
+	D.	
+MSCM
+
+10 points   
+
+QUESTION 6
+
+An open-source tool to manage Linux and Windows devices by allowing administrators to declare a desired configuration, which then causes the systems to match is called __________.
+
+	A.	
+Preparer
+
+	B.	
+Puppet 1
+
+	C.	
+Pause Agent
+
+	D.	
+Prophet
+
+10 points   
+
+QUESTION 7
+
+Which of these are NOT one of the six general troubleshooting categories:
+
+	A.	
+Asset Management 1
+
+	B.	
+Hardware
+
+	C.	
+Operating System 
+
+	D.	
+Patching
+
+10 points   
+
+QUESTION 8
+
+The Windows package manage is called __________.
+
+	A.	
+MSA
+
+	B.	
+MSI 1
+
+	C.	
+MSE
+
+	D.	
+MSO
+
+10 points   
+
+QUESTION 9
+
+Which of these is NOT a common cause of failed Internet connectivity?
+
+	A.	
+Improper video configuration 1
+
+	B.	
+Improper IP configuration
+
+	C.	
+DNS failure
+
+	D.	
+Firewall misconfiguration
+
+10 points   
+
+QUESTION 10
+
+The Linux administrator account is named "root" while the local Windows administration account is named "Azure".
+
+ True
+
+ False 1
