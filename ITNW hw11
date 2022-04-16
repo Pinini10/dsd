@@ -1,0 +1,44 @@
+1- There are many reasons to regularly back up data on computers; one of these is to provide excellent copies of data for use by hackers.
+f
+
+
+2- Full Backups are a complete back up of a system and it often takes a short time to complete.
+f
+
+
+3- _________ backups are backup jobs created by combining the most recent full backup and the subsequent incremental backups.
+	Synthetic Full
+  
+  
+ 4-  _____________ backups are a backup of changed since a sepecified marker reset the archive bit.
+Incremental
+
+
+5- Which of these is NOT a trait associated with cloud backups?
+Destroys data center integrity
+
+
+6- Server redundancy refers to multiple complete servers that can manage a service, such as the server nodes in a cluster.
+t
+
+
+7- Component redundancy refers to components inside the server or on the network that are duplicated, such as NICs, HDDs, or power supplies.
+t
+
+
+8- The load balancing mechanism allocates connections in a specified order, regardless of workload or capabilityis known as _______________.
+Round Robin
+
+
+9- _________________ are designed for an immediate takeover of operations in the event of a disaster.
+Hot Sites
+
+
+10- _____________________ contain the necessary office space, without the essential equipment such as workstations, servers, network devices, and office furniture.
+Cold Sites
+
+
+
+
+11- ___________________ contain the necessary space for your data center and business offices and some of the required computer and network hardware.
+Warm Sites
