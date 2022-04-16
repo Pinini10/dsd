@@ -1,0 +1,29 @@
+1- One of the most fundamental concepts of system administration is ________ accounts.
+user
+
+2- Users often seem to spend a lot of time thinking about how to circumvent password polices.
+t
+
+3- The Linux command used to create a new local user is USERMOD.
+f
+
+4- One of the strongest ways to supplement authentication security is _________.
+MFA
+
+5- The most fundamental servers on the network are file and print server.
+t
+
+6- HDD storage space can be used as if it were RAM. This borrowed space is called _____________.
+Virtual Memory
+
+7- File transfers may also be illegitimate. For example, data exfiltration describes the content copied from a server in a security breach. The corresponding term, data infiltration, describes data transferred to a server.
+t
+
+8-_____ is a standard tool to connect to Linux servers and network devices. It is not commonly used with Windows, but it can be added.
+SSH
+
+9- Which of these types of host security software may NOT be installed on servers.
+SIDS
+
+10- Server administration best practices include the proper configuration of the server from a security perspective. This concept is known as_______________.
+Hardening
