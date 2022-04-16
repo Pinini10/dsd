@@ -1,0 +1,30 @@
+1- Data Security is one of the most important jobs of a System Administrator.
+t
+
+2- Data may be encrypted for a number of reasons, but one of the most important is confidentiality.
+t
+
+3- Network traffic is relatively easy to intercept using _______________.
+Packet Sniffers
+
+4- The drive encryption used by Microsoft is called ____________.
+Bitlocker
+
+5- ___________ storage allows a business to retain complete control of its data, but the full responsibility for security rests on the sysadmins.
+On-Site
+
+6- Encryption has three goals:  confidentiality, integrity, and non-repudiation.
+t
+
+7- Data Monitoring and Data Deletions are good mitigating techniques for the risks of data corruption.
+f
+
+8- List two common causes for issues of improper privilege escalation:
+Misconfigured Local/Group Policy settings	
+Misconfigured permissions
+
+9- The purpose of port scanning tools is to ensure proper privilege escalation and file access.
+f
+
+10- The purpose of packet sniffing tools is to confirm that firewalls are configured correctly.
+t
